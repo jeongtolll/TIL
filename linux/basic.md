@@ -59,3 +59,6 @@ $rm <삭제하고 싶은 폴더 이름>
 
 
 ![cozydog](basic.assets/cozydog.jpg)
+
+
+
